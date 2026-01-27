@@ -9,5 +9,5 @@
 
 sourcemap.json
 
-Packages/
-ServerPackages/
+/Packages
+/ServerPackages
